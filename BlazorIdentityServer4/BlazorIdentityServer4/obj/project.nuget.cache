@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yEunkLV9OCILBgu/He/8PnFkfBsIan8Z2/1DgffousVRwJHN5QoUe3+c/adPPiJIDSNwN6+2JKmPNfDXduRIKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bx\\source\\repos\\BlazorIdentityServer4\\BlazorIdentityServer4\\BlazorIdentityServer4\\BlazorIdentityServer4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bx\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
